@@ -1,9 +1,10 @@
+/* random color cards */
 .cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-.colorContainer {
+.card-random-color {
   background-color: orange;
   width: 300px;
   height: 150px;

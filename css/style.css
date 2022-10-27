@@ -2,6 +2,7 @@
 @import url("/css/components/banner.css");
 @import url("/css/components/container.css");
 @import url("/css/components/card.css");
+@import url("/css/components/button.css");
 
 body {
   margin: 0;

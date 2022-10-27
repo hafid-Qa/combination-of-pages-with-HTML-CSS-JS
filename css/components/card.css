@@ -18,3 +18,37 @@
   border: solid black 2px;
   border-radius: 10px;
 }
+
+/* tailer tutorial */
+
+/* .trailer-control {
+  position: fixed;
+  /* this puts the image corner on the center */
+/* top: 50%;
+  left: 50%;
+  /* bring the img center in the page center  */
+/* transform: translate(-50%, -50%);
+
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  transition: opacity 0.7s; */
+/* }  */
+
+/* .active.trailer-control {
+  visibility: hidden;
+  opacity: 0;
+}
+
+.trailer-control video {
+  max-width: 990px;
+  outline: none;
+}
+@media (max-width: 991px) {
+  .trailer-control video {
+    max-width: 90%;
+  }
+}  */

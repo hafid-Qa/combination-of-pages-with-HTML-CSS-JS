@@ -6,18 +6,30 @@
 .container-random-color h2 {
   text-align: center;
 }
-
-/* .colorContainer {
-  background-color: orange;
-  width: 300px;
-  height: 150px;
-  color: white;
-  margin: 5px;
+/* 
+.container-video-trailer {
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 25px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-  border: solid black 2px;
+  height: 100vh;
+  background-color: black;
+}
+
+.container-video-trailer-main-content {
+  max-width: 550px;
+  padding: 10px;
+}
+.container-video-trailer-main-content img {
+  max-width: 100%;
+  margin-bottom: 15px;
   border-radius: 10px;
+}
+.container-video-trailer-main-content h1 {
+  color: white;
+  font-weight: 500;
+}
+.container-video-trailer-main-content p {
+  color: white;
+  margin: 15px 0;
 } */

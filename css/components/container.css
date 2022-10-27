@@ -6,7 +6,7 @@
 .container-random-color h2 {
   text-align: center;
 }
-/* 
+
 .container-video-trailer {
   margin: 0 auto;
   display: flex;
@@ -15,7 +15,7 @@
   height: 100vh;
   background-color: black;
 }
-
+/*  
 .container-video-trailer-main-content {
   max-width: 550px;
   padding: 10px;

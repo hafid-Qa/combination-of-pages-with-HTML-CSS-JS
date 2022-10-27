@@ -1,5 +1,6 @@
 @import url("/css/components/navbar.css");
 @import url("/css/components/banner.css");
+@import url("/css/components/container.css");
 
 body {
   margin: 0;

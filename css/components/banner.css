@@ -13,3 +13,8 @@
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   letter-spacing: 2px;
 }
+
+.text-content {
+  margin: 50px 5%;
+  font-family: sans-serif;
+}

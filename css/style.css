@@ -1,6 +1,7 @@
 @import url("/css/components/navbar.css");
 @import url("/css/components/banner.css");
 @import url("/css/components/container.css");
+@import url("/css/components/card.css");
 
 body {
   margin: 0;

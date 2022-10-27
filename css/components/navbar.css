@@ -1,0 +1,32 @@
+.nav-bar {
+  display: flex;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.4s;
+}
+.nav-bar ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0 5px;
+}
+.nav-bar ul li a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: black;
+  font-family: cursive;
+}
+
+.nav-bar ul li a:hover {
+  color: red;
+}
+
+.nav-bar.active {
+  background-color: black;
+}
+.nav-bar.active ul li a {
+  color: white;
+}

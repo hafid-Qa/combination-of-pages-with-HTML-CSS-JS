@@ -1,5 +1,5 @@
 /* trailer */
-/* .Btn-trailer {
+.Btn-trailer {
   background-color: white;
   border: none;
   padding: 10px 20px;
@@ -10,10 +10,9 @@
   background-color: orangered;
 }
 
-
 .close-trailer-icon {
   position: absolute;
   top: 200px;
   right: 30px;
   color: white;
-} */
+}

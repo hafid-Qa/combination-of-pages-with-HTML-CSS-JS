@@ -42,3 +42,24 @@ const generateColor = () => {
 };
 
 generateColor();
+
+// trailer
+const btnEl = document.querySelector(".Btn-trailer");
+const closeIconEl = document.querySelector(".close-trailer-icon");
+const trailerConEl = document.querySelector(".trailer-control");
+const videoEl = document.querySelector("video");
+
+const showTrailer = () => {
+  trailerConEl.classList.remove("active");
+};
+const hidTrailer = () => {
+  trailerConEl.classList.add("active");
+  videoEl.pause();
+  videoEl.currentTime = 0;
+};
+
+btnEl.addEventListener("click", showTrailer);
+
+closeIconEl.addEventListener("click", hidTrailer);
+
+// popup window

@@ -1,4 +1,6 @@
 @import url("/css/components/navbar.css");
+@import url("/css/components/banner.css");
+
 body {
   margin: 0;
   box-sizing: border-box;
